@@ -11,9 +11,7 @@ b. between men and women
 c. by marital status
 d. by recency of immigration
 
-#### 3. Bonus Question: 
-#### Do the results change when missing values (i.e., invalid responses) for the ‘household income’ are imputed? 
-Which assumptions do you have to make to perform such an analysis?
+#### 3. Do the results change when missing values (i.e., invalid responses) for the ‘household income’ are imputed? 
 
 ### Analyze in terms of Economic impact
 1. What is the economic impact of cardiovascular disease in Canada?
