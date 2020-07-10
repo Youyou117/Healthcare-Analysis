@@ -18,7 +18,7 @@ d. by recency of immigration
 
 #### 3. Do the results change when missing values (i.e., invalid responses) for the ‘household income’ are imputed? 
 
-### Analyze in terms of Economic impact
+#### 4. Analyze in terms of Economic impact
 
 1. What is the economic impact of cardiovascular disease in Canada?
 
