@@ -20,10 +20,10 @@ d. by recency of immigration
 
 #### 4. Analyze in terms of Economic impact
 
-1. What is the economic impact of cardiovascular disease in Canada?
+a. What is the economic impact of cardiovascular disease in Canada?
 
-2. What are the most realistic approaches to minimizing the economic impact of cardiovascular disease in Canada?
+b. What are the most realistic approaches to minimizing the economic impact of cardiovascular disease in Canada?
 
-3. How does the fixed and variable cost of dealing with cardiovascular diseases look like? Has it increased over the years?
+c. How does the fixed and variable cost of dealing with cardiovascular diseases look like? Has it increased over the years?
 
-4. What are some of the KPIs that can be identified through the dataset to measure the economic
+d. What are some of the KPIs that can be identified through the dataset to measure the economic
